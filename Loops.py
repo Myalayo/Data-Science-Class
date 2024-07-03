@@ -3,8 +3,8 @@ LG_in_kwara = ["ilorin west", "ekiti", "oke-ero", "ifelodun","barutee","asa", "i
 #Find Lg in the even position
 
 length = len(LG_in_kwara) # This is called a function
-def double(x):
-    print (x * 2)
+# def double(x):
+#     print (x * 2)
 # for i in range((5)):
 #     print(LG_in_kwara[i])
 
@@ -15,9 +15,9 @@ def double(x):
 # for i in range (1,length,2):
 #     print(LG_in_kwara[i])
 
-# for i in range (length):
-#     if i % 2 == 1:
-#         print(LG_in_kwara[i])
+for i in range (length):
+    if i % 2 == 1:
+        print(LG_in_kwara[i])
 
 #Or this method
 # for i in range (length):
@@ -48,9 +48,9 @@ def double(x):
 #     if lg[0] in vowels:
 #         print(lg) 
 
-double(7)
-double(3)
-double(15)
+# double(7)
+# double(3)
+# double(15)
 
 # for i in range (length):
 #     LG_in_kwara[i] =  LG_in_kwara[i]  + ' state'
@@ -58,7 +58,7 @@ double(15)
   
 # print(LG_in_kwara)
 
-for i in range (length):
-    LG_in_kwara[i] =  LG_in_kwara[i]  + ' LG'
-    print(LG_in_kwara[i])
+# for i in range (length):
+#     LG_in_kwara[i] =  LG_in_kwara[i]  + ' LG'
+#     print(LG_in_kwara[i])
   

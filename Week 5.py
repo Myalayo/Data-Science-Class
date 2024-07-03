@@ -68,11 +68,23 @@
 # #     print(letter)
 # print(len(Country))
 
-Sentence = "Nigeria is my Country"
+# Sentence = "Nigeria is my Country"
+# # Mine = Sentence.split()
+# # print (Mine)
+# for name in Sentence:
+#     print(Sentence)
+
+# Country = "Nigeria"
+# for x in Country:
+#         print(x)
+
+# Sentence = "Nigeria is my Country"
 # Mine = Sentence.split()
 # print (Mine)
-for name in Sentence:
-    print(Sentence)
+
+Country = "Nigeria"
+for letter in Country:
+        print(letter)
 
 
 
